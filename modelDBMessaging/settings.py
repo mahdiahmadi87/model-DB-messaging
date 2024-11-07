@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'messaging',
     'notifications',
     'inbox',
+    'pluginsApp',
 ]
 
 MIDDLEWARE = [
