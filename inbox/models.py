@@ -1,5 +1,5 @@
 from django.db import models
-from user.models import User
+from django.contrib.auth.models import User
 from messaging.models import Message
 from notifications.models import Notification
 
